@@ -1,3 +1,3 @@
 hello  ladies and  guys 
 i'm lisense 
-welcome to my personal github!
+welcome to my personal blog!
